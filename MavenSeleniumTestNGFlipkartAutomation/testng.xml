@@ -1,0 +1,8 @@
+<suite name="FlipkartSuit">
+<test name="FullFunctionalityForFlipkart">
+<classes>
+    <class name="LoginTest"></class>
+    <class name="HomePageTest"></class>
+</classes>
+</test>
+</suite>
